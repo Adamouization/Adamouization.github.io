@@ -1,8 +1,8 @@
-slogan: "Keep and carry on."
+slogan: "A data scientist pursuing many side hobbies in his free time."
 
 show_heart: false
 
-show_slogan: false
+show_slogan: true
 
 menu:
   - title: Archives
@@ -31,10 +31,14 @@ links:
     url: https://linktr.ee/adamouization
     intro: "My Linktree page."
     icon: "fa fa-tree"
-  # - title: "My LinkedIn"
-  #   url: http://www.linkedin.com/in/xxx
-  #   intro: "My Linkin account."
-  #   icon: "fa fa-linkedin"
+  - title: Instagram
+    url: https://www.instagram.com/adamouization/
+    intro: "My Instagram account."
+    icon: "fa fa-instagram"
+  - title: X
+    url: https://x.com/Adamouization
+    intro: "My X (ex-twitter) account."
+    icon: "fa fa-twitter"
 
 widgets:
 - search
@@ -44,6 +48,7 @@ widgets:
 - links
 - strava
 - goodreads
+- hit_counter
 
 rss: 
 fancybox: true
