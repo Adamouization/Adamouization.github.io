@@ -3,9 +3,9 @@ title: First-Half-Marathon
 date: 2023-12-28 18:14:14
 categories:
   - running
-  - challenges
 tags:
   - strava
+  - challenges
 ---
 
 I recently completed my first half-marathon (21.1km or 13.2 miles) in December: the London Richmond Half-Marathon!

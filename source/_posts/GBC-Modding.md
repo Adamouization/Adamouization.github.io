@@ -2,11 +2,11 @@
 title: GameBoy Color Modding
 date: 2023-10-04 11:05:20
 categories: 
-- retro
 - gaming
 tags:
 - gameboy
 - pokemon
+- gaming
 ---
 
 Back in July, I bought a GameBoy Color for £10, and decided to mod it so I could emulate my youth and play Pokemon Crystal during an upcoming 1-month trip.
