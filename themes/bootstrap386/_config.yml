@@ -39,6 +39,10 @@ links:
     url: https://x.com/Adamouization
     intro: "My X (ex-twitter) account."
     icon: "fa fa-twitter"
+  - title: Sign my guestbook
+    url: http://users2.smartgb.com/g/g.php?a=s&i=g26-39389-5a
+    intro: "My guestbook for visitors to sign."
+    icon: "fa fa-book"
 
 widgets:
 - search
@@ -52,7 +56,7 @@ widgets:
 - misc
 
 rss: 
-fancybox: false
+fancybox: true
 favicon: favicon.png
 duoshuo_shortname:
 
