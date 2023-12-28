@@ -39,6 +39,10 @@ links:
     url: https://x.com/Adamouization
     intro: "My X (ex-twitter) account."
     icon: "fa fa-twitter"
+  - title: Reddit
+    url: https://www.reddit.com/user/Adamouization
+    intro: "My personal Reddit account."
+    icon: "fa fa-reddit"
   - title: Sign my guestbook
     url: http://users2.smartgb.com/g/g.php?a=s&i=g26-39389-5a
     intro: "My guestbook for visitors to sign."
@@ -52,6 +56,7 @@ widgets:
 - links
 - strava
 - goodreads
+- stackexchange
 # - twitter
 - misc
 

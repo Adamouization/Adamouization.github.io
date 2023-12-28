@@ -1,6 +1,6 @@
 ---
 title: First-Half-Marathon
-date: 2023-12-28 18:14:14
+date: 2023-12-10 18:14:14
 categories:
   - running
 tags:
