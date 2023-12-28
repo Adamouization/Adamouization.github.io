@@ -8,19 +8,19 @@ menu:
   - title: Archives
     url: archives
     intro: "All the articles."
-    # icon: "fa fa-archive"
-  # - title: Categories
-  #   url: categories
-  #   intro: "All the categories."
-  #   # icon: "fa fa-folder"
-  # - title: Tags
-  #   url: tags
-  #   intro: "All the tags."
-  #   # icon: "fa fa-tags"
-  # - title: About
-  #   url: about
-  #   intro: "About me."
-  #   # icon: "fa fa-user"
+    icon: "fa fa-archive"
+  - title: Categories
+    url: categories
+    intro: "All the categories."
+    icon: "fa fa-folder"
+  - title: Tags
+    url: tags
+    intro: "All the tags."
+    icon: "fa fa-tags"
+  - title: About
+    url: about
+    intro: "About me."
+    icon: "fa fa-user"
   # - title: RSS
   #   url: atom.xml
   #   intro: "Subscribe me."
@@ -48,17 +48,18 @@ widgets:
 - links
 - strava
 - goodreads
+# - twitter
 - hit_counter
 
 rss: 
-fancybox: true
+fancybox: false
 favicon: favicon.png
 duoshuo_shortname:
 
 
 # Analytics (change to yours)
 google_analytics:
-  enable: true
+  enable: false
   siteid: UA-70812759-1
 
 # search
