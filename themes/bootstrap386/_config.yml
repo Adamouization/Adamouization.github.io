@@ -49,7 +49,7 @@ widgets:
 - strava
 - goodreads
 # - twitter
-- hit_counter
+- misc
 
 rss: 
 fancybox: false
