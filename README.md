@@ -1,7 +1,7 @@
 Adamouization.github.io - Personal Retro Blog
 =======================
 
-This website stores updated about my hobbies. It's wrapped in a blog built using Hexo, which is themed using Bootstrap/386, a vintage 1980s DOS inspired Twitter Bootstrap theme. Original theme: [hexo-theme-freemind.386 ](https://github.com/blackshow/hexo-theme-freemind.386).
+This website stores updated about my hobbies. It's wrapped in a blog built using Hexo, which is themed using Bootstrap/386, a vintage 1980s DOS inspired Twitter Bootstrap theme. Original theme: [hexo-theme-freemind.386](https://github.com/blackshow/hexo-theme-freemind.386).
 
 You can visit the website live here: [adamouization.github.io](https://adamouization.github.io/).
 
@@ -19,10 +19,10 @@ You can visit the website live here: [adamouization.github.io](https://adamouiza
 4. Run server: `hexo clean && hexo server --draft`
 
 ## Roadmap
-* see :[Kan-Ban board](https://github.com/users/Adamouization/projects/3).
+* see: [Kan-Ban board](https://github.com/users/Adamouization/projects/3).
 
 ## License 
-* see [LICENSE](https://github.com/Adamouization/Adamouization.github.io/blob/master/LICENSE) file.
+* see: [LICENSE](https://github.com/Adamouization/Adamouization.github.io/blob/master/LICENSE) file.
 
 ## Contact
 * Email: adam[at]jaamour[dot]com
