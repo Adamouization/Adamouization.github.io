@@ -66,10 +66,5 @@ favicon: favicon.png
 duoshuo_shortname:
 
 
-# Analytics (change to yours)
-google_analytics:
-  enable: false
-  siteid: UA-70812759-1
-
 # search
 #swiftype_key: ZP2ZSuHgipSZfRyU8uTR
