@@ -1,5 +1,5 @@
 ---
-title: First-Half-Marathon
+title: My First Half-Marathon
 date: 2023-12-10 18:14:14
 categories:
   - running
