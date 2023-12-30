@@ -13,8 +13,6 @@ I completed the National 3 Peaks Challenge on June 9th-11th, [raising a total of
 
 The challenge consisted of climbing the 3 tallest mountains in the UK in less than 24 hours. The challenge was completed in 23h43m:
 
-<!--more-->
-
 1. Peak 1/3: Ben Nevis (Scotland) - 1345m high - 5h39m46s:
 
 {% raw %}
@@ -24,14 +22,16 @@ The challenge consisted of climbing the 3 tallest mountains in the UK in less th
 {% endraw %}
 <!--  https://strava.app.link/18v6S9QczAb -->
 
-1. Peak 2/3: Scafell Pike (England) - 978m high - 3m54m58s: 
+<!--more-->
+
+2. Peak 2/3: Scafell Pike (England) - 978m high - 3m54m58s: 
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9242381864" data-style="standard"></div>
 <script src="https://strava-embeds.com/embed.js"></script>
 <br>
 <!-- https://strava.app.link/fapOJeYczAb -->
 
-1. Peak 3/3: Snowdon (Wales) - 1085m high - 4h08m54s:
+3. Peak 3/3: Snowdon (Wales) - 1085m high - 4h08m54s:
 
 <div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9243530968" data-style="standard"></div>
 <script src="https://strava-embeds.com/embed.js"></script>
