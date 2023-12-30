@@ -1,5 +1,5 @@
 ---
-title: Year-2023-In-Movies
+title: 2023 in Movies
 date: 2023-12-30 09:38:53
 categories: 
     - movies
