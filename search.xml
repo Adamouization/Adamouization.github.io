@@ -4,13 +4,141 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2023/12/24/hello-world/"/>
-      <url>/2023/12/24/hello-world/</url>
+      <title>2023 in Movies</title>
+      <link href="/2023/12/30/Year-2023-In-Movies/"/>
+      <url>/2023/12/30/Year-2023-In-Movies/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<p>In 2023, I watched less movies than I did I previous years (likely due to the good weather and Covid not being a thing anymore). I watched a total of 68 movies (110 in 2022, 123 in 2021 and 137 in 2020), which amounted to:</p><ul><li>138.1 hours watchtime</li><li>5.7 movies on average per month (1.3 per week)</li></ul><p><img src="/2023/12/30/Year-2023-In-Movies/all_movie_posters.png" alt="Posters of all movies watched in 2023"></p><span id="more"></span><p>I watched more movies on Sundays and Mondays, and the least on Thursdays:</p><p><img src="/2023/12/30/Year-2023-In-Movies/histogram_weekdays.png" alt="Histogram showing numbers of movies watched on different weekdays."></p><p>Of all the movies I watched, “Spider-Man: Across the Spider-Verse” was the highest rate on Letterboxd, whereas “Ant-Man and the Wasp: Quantumania” was the lowest rated:</p><p><img src="/2023/12/30/Year-2023-In-Movies/high_and_lows.png" alt="Posters of all movies watched in 2023"></p><p>Here are some extra stats about the movies I watched in 2023:</p><ul><li>38% of these movies were released in 2023</li><li>90% were watched with my partner</li><li>47% were comedy movies, 40% drama, 25% adventure and 22% sci-fi (movies can have multiple genres)</li><li>90% were from the USA</li><li>16% were re-watches</li><li>26% were watched <a href="https://letterboxd.com/adamouization/list/my-2023-cinema-viewings/">in the cinema</a> this year.</li></ul><p>Since 2019, I have been tracking every movie I watched via Letterboxd, an online social cataloging service. You can add me here: <a href="https://letterboxd.com/adamouization/">https://letterboxd.com/adamouization/</a>. You can see the full year in movie here: <a href="https://letterboxd.com/adamouization/year/2023/">https://letterboxd.com/adamouization/year/2023/</a>. </p>]]></content>
       
       
+      <categories>
+          
+          <category> movies </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> stats </tag>
+            
+            <tag> letterboxd </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>My First Half-Marathon</title>
+      <link href="/2023/12/10/First-Half-Marathon/"/>
+      <url>/2023/12/10/First-Half-Marathon/</url>
+      
+        <content type="html"><![CDATA[<p>I recently completed my first half-marathon (21.1km or 13.2 miles) in December: the London Richmond Half-Marathon!</p><p>I had initially set out to complete this challenge in 2022 H1, but got injured during the race (only completed 8km before my knee let go). This was due to poor training intensity and poor running form. A long break from running and many physio sessions later and I was finally able to complete my first race:</p><p>I had initially set the goal of completing it in sub-2h (after seeing how well the training was going as I was finally running correctly), but discovered a couple of weeks before that the race was classified as a “trail” run with a lot of elevation changes. So I quickly removed the sub-2h idea from my mind to avoid a repeat of my 2022 attempt. Here is the Strava post with a lot of details of each split:</p><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="10357809172" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script><br><span id="more"></span><p>My goal so far for 2024 are to:</p><ol><li>Participate in another half-marathon (a flat one this time) and attempt to finish it in less than 2 hours</li><li>Consider completing a triathlon (Olympic distance) to see I would like this type of event.</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> sports </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> strava </tag>
+            
+            <tag> running </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>GameBoy Color Modding</title>
+      <link href="/2023/10/04/GBC-Modding/"/>
+      <url>/2023/10/04/GBC-Modding/</url>
+      
+        <content type="html"><![CDATA[<p>Back in July, I bought a GameBoy Color for £10, and decided to mod it so I could emulate my youth and play Pokemon Crystal during an upcoming 1-month trip.</p><p>However, I had no experience modding consoles, and no soldering experience. But thanks to my partner and to YouTube, I opted for the best mods I could find that I had confidence I could complete without losing the console. Here is a before &amp; after of the project:</p><p><img src="/2023/10/04/GBC-Modding/gbc_before_after.jpg" alt="Before and after modding the GameBoy Color console"></p><span id="more"></span><p>The console works great, looks great and provided a lot of fun hours of gameplay so far! Here is a list of all the mods I installed:</p><ul><li>IPS Laminated screen replacement</li><li>Shell replacement</li><li>Speaker replacement</li><li>Custom-made stickers</li><li>Game cartridges: replaced batteries (to avoid losing save files)</li></ul><p>Future modifications that I still want to conduct in the future are USB-C charging and a battery level indicator (it died on me in the middle of a flight, but thankfully I had planned for extra batteries). I also want to mod an broken GameBoy Advanced SP that I bought at the same time!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> gaming </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> gameboy </tag>
+            
+            <tag> pokemon </tag>
+            
+            <tag> gaming </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>National 3 Peaks Challenge</title>
+      <link href="/2023/06/11/Three-Peaks/"/>
+      <url>/2023/06/11/Three-Peaks/</url>
+      
+        <content type="html"><![CDATA[<p>I completed the National 3 Peaks Challenge on June 9th-11th, <a href="https://www.justgiving.com/fundraising/ajaamour">raising a total of £25000 as a group (£1045 individually)</a> for the charity Family Action.</p><p>The challenge consisted of climbing the 3 tallest mountains in the UK in less than 24 hours. The challenge was completed in 23h43m:</p><ol><li>Peak 1&#x2F;3: Ben Nevis (Scotland) - 1345m high - 5h39m46s:</li></ol><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9237820123" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script><br><!--  https://strava.app.link/18v6S9QczAb --><span id="more"></span><ol start="2"><li>Peak 2&#x2F;3: Scafell Pike (England) - 978m high - 3m54m58s:</li></ol><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9242381864" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script><br><!-- https://strava.app.link/fapOJeYczAb --><ol start="3"><li>Peak 3&#x2F;3: Snowdon (Wales) - 1085m high - 4h08m54s:</li></ol><div class="strava-embed-placeholder" data-embed-type="activity" data-embed-id="9243530968" data-style="standard"></div><script src="https://strava-embeds.com/embed.js"></script><br><!-- https://strava.app.link/2utK1J1czAb --><p>Hiking stats:</p><ul><li>Total distance walked during hikes: 39.6 km</li><li>Total elevation: 2956 meters</li><li>Total driving distance: 743km</li></ul><p>Key stats from the 24h (during and in-between hikes) + going back home:</p><ul><li>11&#x2F;23 participants successfully completed the challenge (of which 7 of us completed under 24h)</li><li>Total steps in 24h (including outside hikes): 77504 steps</li><li>Active calories burned: 4850 cal</li><li>Total calories burned (active and resting): 9142 cal</li><li>Total sleep: 0h</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> sports </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> stats </tag>
+            
+            <tag> strava </tag>
+            
+            <tag> hiking </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Carbon Footprint Visualisation</title>
+      <link href="/2020/02/14/Carbon-Footprint-Visualisation/"/>
+      <url>/2020/02/14/Carbon-Footprint-Visualisation/</url>
+      
+        <content type="html"><![CDATA[<p>While taking the “Information Visualisation” class during my Master’s in AI, one of our practicals consisted in calculating our 2019 carbon footprint (greenhouse gases, including CO2&#x2F;CH4&#x2F;N2O, that are built up from various everyday activities such as food, travel, living and shopping) via the <a href="https://footprint.wwf.org.uk/">WWF carbon footprint calculator</a> and visualising it following the format of the <a href="http://www.dear-data.com/theproject">Dear Data project</a> as a postcard. The front of postcard contains the visualisation and the back contains the key to read it:</p><p><img src="/2020/02/14/Carbon-Footprint-Visualisation/viz_wide.jpg" alt="Infoviz in the Dear Data Project postcard format, showing my carbon footprint in 2019"></p><p>The next section cover:</p><ul><li>How the different attributes from the carbon footprint calculator were visualised.</li><li>If the visualisation follow the principles of expressiveness and effectiveness by <a href="https://www.taylorfrancis.com/books/mono/10.1201/b17511/visualization-analysis-design-tamara-munzner">T. Munzner</a>.</li><li>A discussion of the visualisation’s advantages and limitations.</li></ul><br><span id="more"></span><h1 id="Table-of-attributes-and-how-they-were-visualised"><a href="#Table-of-attributes-and-how-they-were-visualised" class="headerlink" title="Table of attributes and how they were visualised"></a>Table of attributes and how they were visualised</h1><table><thead><tr><th>Attribute</th><th>Attribute Type</th><th>Visual Variable</th><th>Expressive (Yes&#x2F;No)</th></tr></thead><tbody><tr><td>Carbon footprint categories</td><td>Categorical</td><td>Shapes to distinguish between average world citizen (diamond), average UK citizen (cross), average CS5044 student (triangle), 2020 world target (circle), and myself (thunder).</td><td>Maybe: shapes all found in same place (A), but also used later (section B).</td></tr><tr><td>Position on common scale: parallel lines used to directly compare the differences between each scale.</td><td>Yes*</td><td>N&#x2F;A</td><td>N&#x2F;A</td></tr><tr><td>Carbon footprint amount (in tonnes)</td><td>Ordered (quantitative)</td><td>Shapes for various weights (solid oval for 1t, hollow rectangle for 0.5t and line for 0.1t), as shown in Appendix B.1.</td><td>Yes, as it concentrates on relaying the amount in tonnes.</td></tr><tr><td>Position to order each parallel line representing a scale from smallest to largest carbon footprint. Allows the relative impacts to be directly compared without counting.</td><td>Yes*</td><td>N&#x2F;A</td><td>N&#x2F;A</td></tr><tr><td>Carbon footprint amount breakdown</td><td>Categorical</td><td>Colour hue for breaking down into the four categories (travel in light blue, home in red, stuff in green, and food in purple) or none (uncategorised in dark grey) (see Appendix B.2).</td><td>Yes, as it clearly breaks the footprint down into four categories.</td></tr><tr><td>Method of travel</td><td>Categorical</td><td>Shapes to allow each answer to the selected survey questions regarding method of travel to be distinguished from one another (plane as lines, car&#x2F;motorbike&#x2F;walking as circles, train as right-tilted line, bus as left- tilted line) (see Appendix B.3).</td><td>Yes, as it relays all travel information.</td></tr><tr><td>Flight distance</td><td>Ordered (quantitative)</td><td>Colour hue to differentiate between the various flight distances (green for domestic, blue for up to 1250km, pink for 2500km, purple for 5500km and red for 9000km).</td><td>Yes*</td></tr><tr><td>Flight reason</td><td>Categorical</td><td>Shapes to represent the different reasons for each flight (studying, break, event, family trip, friends trip). Part of new data set used as the extension to the practical – see Appendix B.4).</td><td>Yes*</td></tr><tr><td>Flight order</td><td>Ordered (ordinal)</td><td>Position along the line, starting from oldest to most recent flights (ranging from Feb-2019 to Feb- 2020).</td><td>Yes*</td></tr><tr><td>Flight offset</td><td>Categorical</td><td>Shapes to represent whether the flight was offset or not (circle for offset flights and cross for not- offset flights). Can be distinguished from other similar shapes as they are attached to the lines representing flights.</td><td>Maybe: needed to approximate offset for average CS5044 student (see Appendix B)</td></tr><tr><td>Type of vehicle</td><td>Categorical</td><td>Colour hue to represent the type of vehicle (walk in green, car in red and motorbike in purple).</td><td>Yes*</td></tr><tr><td>Time spent on commute</td><td>Ordered (ordinal)</td><td>Colour hue to represent the time slices of hours spent on bus&#x2F;train commutes.</td><td>Yes*</td></tr><tr><td>Number of occurrences for each travel method</td><td>Ordered (quantitative)</td><td>Shape enumeration to count the number of people for each travel method and time spent on commute (using the shapes mentioned in the previous row).</td><td>Yes, as it accurately displays number of occurrences.</td></tr><tr><td>My contribution to travel among CS5044 students</td><td>Ordered (ordinal)</td><td>Colour hue to stand out among all the uses for each commute method (digitally highlighted in yellow as the university scanners could not properly pick up the colour).</td><td>Yes*</td></tr></tbody></table><br><h1 id="T-Munzner’s-principles-of-expressiveness-and-effectiveness"><a href="#T-Munzner’s-principles-of-expressiveness-and-effectiveness" class="headerlink" title="T. Munzner’s principles of expressiveness and effectiveness"></a>T. Munzner’s principles of expressiveness and effectiveness</h1><h2 id="Expressiveness"><a href="#Expressiveness" class="headerlink" title="Expressiveness"></a>Expressiveness</h2><p>The principal of effectiveness is followed as the chosen visual variables express all of the data (Appendix B). Additionally, unordered data is not visualised in a way that implies ordering, and vice versa.</p><h2 id="Effectiveness"><a href="#Effectiveness" class="headerlink" title="Effectiveness"></a>Effectiveness</h2><p>Munzner breaks down the principles of effectiveness into the following categories [2]:</p><h3 id="Accuracy"><a href="#Accuracy" class="headerlink" title="Accuracy"></a>Accuracy</h3><p>The visualisation follows Cleveland and McGill’s experiments, depicting how “aligned positions against a common scale” yields maximum accuracy [3]. At the top of the Munzner ranking of visual variables effectiveness, “position on common scale” (ordered attributes) and “colour hue” (categorical attributes) are found and both used in the visualisation. However, “shape” is ranked as the least effective, therefore partially violating the principle as it is used repeatedly in the visualisation.</p><h3 id="Discriminability"><a href="#Discriminability" class="headerlink" title="Discriminability"></a>Discriminability</h3><p>Data encoded using identical visual variables does not exceed five bins, thus following this principle. This is reinforced when the visualisation is read by section (A&#x2F;B&#x2F;C) and not as whole. If the visualisation&#x2F;legend were not separated into three sections, the visualisation might violate this principle through the considerable use of different hues and shapes.</p><h3 id="Separability"><a href="#Separability" class="headerlink" title="Separability"></a>Separability</h3><p>Attributes using shapes and hues often interfere with one another in this visualisation, but both the use of position along the lines and the detailed legend help follow the principle. Additionally, the poor combinations stated by Munzner (hue&#x2F;position, size&#x2F;hue) are not used.</p><h3 id="Popout"><a href="#Popout" class="headerlink" title="Popout"></a>Popout</h3><p>This principle is followed through the use of hue to distinguish my own travel habits among the CS5044 students.</p><h3 id="Grouping"><a href="#Grouping" class="headerlink" title="Grouping"></a>Grouping</h3><p>The data is grouped by being placed along lines which encode carbon footprint scales, and the visualisation is divided into three distinct sections, thus following the grouping principle.</p><br><h1 id="Discussion"><a href="#Discussion" class="headerlink" title="Discussion"></a>Discussion</h1><p>The main advantage of the visualisation is that it always directly compares my personal footprint to others’ in a linear fashion, allowing readers to start with the general footprint comparisons, followed by personal flights in the past year in relation to the average CS5044 student, and ending with personal travel habits compared to CS5044 students. Another advantage is the use of shape enumeration to accurately relay information e.g. the exact carbon footprint in tonnes, the number of flights, the number of students travelling by car&#x2F;motorbike&#x2F;on foot, and the hours spent on train&#x2F;bus commutes, can all be precisely counted in the sketch. Additionally, the visualisation is sketched in a combined view rather than separating the information being visualised.</p><p>The main limitation comes with the amount of detail generated by the use of shapes to enumerate the amount of carbon footprint in tonnes or the travel habits of the CS5044 students, which may be difficult to read as it requires multiple cognitive skills (attention, perception and processing) due to potentially high interference. Additionally, the large number of shapes&#x2F;hues could prove difficult to read for some, and the visualisation does not always follow Munzner’s definition of effectiveness.</p><p>In comparison to the WWF visualisations (see Appendix A), the sketch conveys more detailed information into a single view, whereas the WWF separates the overall carbon footprint and the lifestyle aspects breakdown. However, the WWF uses powerful visual variables in simple manners to display the information effectively, making use of size and shape for the actual footprints, as well as position and colour hues for additional clarity, whereas more advanced combinations are used in the sketch.</p><p>This exercise taught me to force myself to brainstorm new visualisations through different visual variables in order to weight all options available to me. It also taught me that in the context of information visualisation, readability is more important than aesthetics, and to not be afraid of starting over until a visualisation that I am satisfied with is achieved. Finally, it also taught me that I need to fly planes less often (or at least try to offset my flights).</p><p>You can read the full report, which includes the data and initial drafts, by <a href="https://www.icloud.com/iclouddrive/054oM8WR0BFGdIEtAfUPWSs3Q#report">following this link</a>.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> technology </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> stats </tag>
+            
+            <tag> infoviz </tag>
+            
+            <tag> environment </tag>
+            
+        </tags>
       
     </entry>
     
