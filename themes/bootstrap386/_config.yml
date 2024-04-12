@@ -47,6 +47,10 @@ links:
     url: http://users2.smartgb.com/g/g.php?a=s&i=g26-39389-5a
     intro: "My guestbook for visitors to sign."
     icon: "fa fa-book"
+  - title: Join the newsletter
+    url: https://docs.google.com/forms/d/e/1FAIpQLSdVfFOWIgUE5tPjI-f7Ftibbow7DGEJLiPCi9qqXhLCVAXcqA/viewform?usp=sf_link
+    intro: "My newsletter to receive new posts in your mailbox."
+    icon: "fa fa-envelope"
 
 widgets:
 - search
@@ -60,6 +64,7 @@ widgets:
 - stackexchange
 - travelling
 - misc
+- signup
 
 rss: 
 fancybox: true
