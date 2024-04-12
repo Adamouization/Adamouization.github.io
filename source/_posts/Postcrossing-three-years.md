@@ -34,12 +34,12 @@ Stamps aren’t the only cool thing I got from this experiment, as I also got pl
 
 ## Travel time
   - Card I sent that took the **most days** to arrive: [MC-787](https://www.postcrossing.com/postcards/MC-787), which took a whole 7 months and 25 days to reach its destination. The delay was likely due to the card being lost, as excluding this outlier, the average time for cards I sent to arrive to the Netherlands is ~8 days.
-  - Card I sent that took the **least days** to arrive: MC-718 took only 2 days! In a day and age where we are used to next-day Amazon Prime deliveries, this is remarkable as it means this non-priority card was picked up on the day, and made its way fast enough to be in the mailman’s bag the day after next.
+  - Card I sent that took the **least days** to arrive: MC-718 took only 2 days! In a day and age where we are used to next-day Amazon Prime deliveries, this is remarkable as it means this non-priority card was picked up on the day and made its way fast enough to be in the mailman’s bag the day after next.
   - Country from which cards take the most time to arrive to me: China, from which I received 7 cards, takes on average 82 days to arrive to me (vs 54 days for to send to China).
 
 ## Countries
   - Country I sent the most cards to and received the most cards from: Germany, to which I sent 18.2% of my card to (26 in total) and received 25.3% of my cards from (37 in total). This is somewhat surprising as it’s the country with the 5th most members, with less than half the members from Russia.
-  - Country I sent the least cards to: Austria, Belgium, Slovenia, Hong Kong, Latvia, Bulgaria, Hungary, Australia, Ukraine, UK, Sri Lanka, Spain, Brazil, Indonesia, Poland, Kazakhstan and Turkey. This is likely due to the relative small sample size compare to other members who have sent thousands of postcards.
+  - Country I sent the least cards to: Austria, Belgium, Slovenia, Hong Kong, Latvia, Bulgaria, Hungary, Australia, Ukraine, UK, Sri Lanka, Spain, Brazil, Indonesia, Poland, Kazakhstan and Turkey. This is likely due to the relatively small sample size compare to other members who have sent thousands of postcards.
 
 ![Pie chart showing the distribution of countries I sent/received the most postcards to/from](./Postcrossing-three-years/pie_chart.png)
 

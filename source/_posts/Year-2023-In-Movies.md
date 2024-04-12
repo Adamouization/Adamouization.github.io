@@ -9,7 +9,7 @@ tags:
 ---
 
 In 2023, I watched less movies than I did I previous years (likely due to the good weather and Covid not being a thing anymore). I watched a total of 68 movies (110 in 2022, 123 in 2021 and 137 in 2020), which amounted to:
-* 138.1 hours watchtime
+* 138.1 hours watch time
 * 5.7 movies on average per month (1.3 per week)
 
 ![Posters of all movies watched in 2023](./Year-2023-In-Movies/all_movie_posters.png)
@@ -32,4 +32,4 @@ Here are some extra stats about the movies I watched in 2023:
 * 16% were re-watches
 * 26% were watched [in the cinema](https://letterboxd.com/adamouization/list/my-2023-cinema-viewings/) this year.
 
-Since 2019, I have been tracking every movie I watched via Letterboxd, an online social cataloging service. You can add me here: https://letterboxd.com/adamouization/. You can see the full year in movie here: https://letterboxd.com/adamouization/year/2023/. 
+Since 2019, I have been tracking every movie I watched via Letterboxd, an online social cataloguing service. You can add me here: https://letterboxd.com/adamouization/. You can see the full year in movie here: https://letterboxd.com/adamouization/year/2023/. 
