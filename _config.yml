@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Adam Jaamour
+title: Adam Jaamour - Retro Blog
 subtitle: 'Adam Jaamour'
-description: ''
-keywords: 
+description: 'A data scientist pursuing many side hobbies in his free time.'
+keywords: postcrossings, marathon, gameboy, data visualisation, stats, blog, hiking
 author: Adam Jaamour
 language: en
 timezone: 'GB'
@@ -61,7 +61,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 5
+  per_page: 6
   order_by: -date
 
 # Category & Tag
