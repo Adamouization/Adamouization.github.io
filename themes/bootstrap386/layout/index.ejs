@@ -1,5 +1,20 @@
-<div class="page-header logo">
+<div class="page-header logo" onclick="playAudio()">
   <h1><% if (config.subtitle){ %><%= config.subtitle%><% } else { %><%= config.title%><% }%><span class="blink-fast">∎</span></h1>
 </div>
 
 <%- partial('_partial/index', {index: true}) %>
+
+<audio id="audio" src="../otter_whistle_snarl.mp3"></audio>
+
+<script>
+/*
+ Function that plays the audio file inside the audio element.
+*/ 
+function playAudio() {
+  var audio = document.getElementById("audio");
+  if(audio) {
+    audio.volume = 0.5;  // Lowering the volume to 50%
+    audio.play();
+  }
+}
+</script>
