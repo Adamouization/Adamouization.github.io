@@ -1,12 +1,19 @@
 ---
 title: Carbon Footprint Visualisation
-date: 2020-02-14 12:03:14
-categories: 
-    - technology
+categories:
+  - technology
 tags:
-    - stats
-    - infoviz
-    - environment
+  - stats
+  - infoviz
+  - environment
+wordCount: 1271
+charCount: 7974
+imgCount: 1
+vidCount: 0
+wsCount: 0
+cbCount: 0
+readTime: About 6 minutes
+date: 2020-02-14 12:03:14
 ---
 
 While taking the "Information Visualisation" class during my Master's in AI, one of our practicals consisted in calculating our 2019 carbon footprint (greenhouse gases, including CO2/CH4/N2O, that are built up from various everyday activities such as food, travel, living and shopping) via the [WWF carbon footprint calculator](https://footprint.wwf.org.uk/) and visualising it following the format of the [Dear Data project](http://www.dear-data.com/theproject) as a postcard. The front of postcard contains the visualisation and the back contains the key to read it:

@@ -1,11 +1,18 @@
 ---
 title: 2023 in Movies
+categories:
+  - movies
+tags:
+  - stats
+  - letterboxd
+wordCount: 212
+charCount: 1306
+imgCount: 3
+vidCount: 0
+wsCount: 0
+cbCount: 0
+readTime: About 2 minutes
 date: 2023-12-30 09:38:53
-categories: 
-    - movies
-tags: 
-    - stats
-    - letterboxd
 ---
 
 In 2023, I watched less movies than I did I previous years (likely due to the good weather and Covid not being a thing anymore). I watched a total of 68 movies (110 in 2022, 123 in 2021 and 137 in 2020), which amounted to:

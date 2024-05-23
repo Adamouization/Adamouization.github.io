@@ -1,5 +1,11 @@
 <div class="col-md-3" id="post_meta"> 
 
+	<!-- read time -->
+	<div class="meta-widget">
+	<i class="fa fa-book"></i>
+	Read time: <%= item.readTime %> (<%= item.wordCount %> words)
+	</div>
+	
 	<!-- date -->
 	<% if (item.date) { %>
 	<div class="meta-widget">

@@ -1,12 +1,19 @@
 ---
 title: My experience Postcrossing for the past 3 years
-date: 2024-04-10 11:05:20
-categories: 
-- philately
+categories:
+  - philately
 tags:
-- postcrossing
-- stats
-- infoviz
+  - postcrossing
+  - stats
+  - infoviz
+wordCount: 703
+charCount: 3737
+imgCount: 4
+vidCount: 0
+wsCount: 0
+cbCount: 0
+readTime: About 4 minutes
+date: 2024-04-10 11:05:20
 ---
 
 As stamp collector, I wanted to find a way to get more stamps and use nice ones in postage. Therefore, during the Covid pandemic in 2020, I stumbled upon PostCrossing and gave it a go to attempt getting more stamps to add to my collection. Postcrossing ended up becoming a very enjoyable hobby, at first during lockdown, and more recently when travelling to another country as it allows to discover their postal services and stamps from the POV of a local. Today, I have sent enough postcards to almost cover the distance to the Moon and back!

@@ -1,12 +1,19 @@
 ---
 title: National 3 Peaks Challenge
-date: 2023-06-11 11:05:20
 categories:
   - sports
 tags:
   - stats
   - strava
   - hiking
+wordCount: 172
+charCount: 1494
+imgCount: 0
+vidCount: 0
+wsCount: 0
+cbCount: 0
+readTime: About 50 seconds
+date: 2023-06-11 11:05:20
 ---
 
 I completed the National 3 Peaks Challenge on June 9th-11th, [raising a total of £25000 as a group (£1045 individually)](https://www.justgiving.com/fundraising/ajaamour) for the charity Family Action.

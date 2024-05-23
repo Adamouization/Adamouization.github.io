@@ -1,11 +1,18 @@
 ---
 title: My First Half-Marathon
-date: 2023-12-10 18:14:14
 categories:
   - sports
 tags:
   - strava
   - running
+wordCount: 226
+charCount: 1151
+imgCount: 0
+vidCount: 0
+wsCount: 1
+cbCount: 0
+readTime: About 1 minute
+date: 2023-12-10 18:14:14
 ---
 
 I recently completed my first half-marathon (21.1km or 13.2 miles) in December: the London Richmond Half-Marathon!
