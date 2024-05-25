@@ -5,7 +5,6 @@ categories:
 tags:
   - gameboy
   - pokemon
-  - gaming
 wordCount: 186
 charCount: 926
 imgCount: 1

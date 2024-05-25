@@ -17,6 +17,7 @@ You can visit the website live here: [adamouization.github.io](https://adamouiza
    5. hexo-deployer-git
    6. hexo-asset-link
    7. hexo-generator-readtime
+   8. hexo-filter-mathjax
 4. Run server: `hexo clean && hexo server --draft`
 
 ## Roadmap
