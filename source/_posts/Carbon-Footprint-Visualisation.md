@@ -1,7 +1,7 @@
 ---
 title: Carbon Footprint Visualisation
 categories:
-  - technology
+  - data
 tags:
   - stats
   - infoviz
