@@ -1,18 +1,19 @@
 ---
 title: My experience training for and racing my first Olympic Triathlon
-wordCount: 1945
-charCount: 9350
-imgCount: 5
+wordCount: 1976
+charCount: 9541
+imgCount: 6
 vidCount: 0
 wsCount: 1
 cbCount: 0
-readTime: About 9 minutes
+readTime: About 10 minutes
 categories:
   - sports
 tags:
   - strava
   - running
   - triathlon
+  - infoviz
 date: 2024-07-28 11:18:53
 ---
 
@@ -24,7 +25,7 @@ Earlier this year, I set myself the goal of tackling a triathlon, despite being 
 
 # Motivation
 
-Despite training for a couple of half-marathons (one in 2022 and one in 2023) and picking up knee injuries along the way, I wanted to find a new way to challenge myself that didn’t involve only running. So, another half-marathon, or even a full one, were out of the question).
+Despite training for a couple of half-marathons (one in 2022 and one in 2023) and picking up knee injuries along the way, I wanted to find a new way to challenge myself that didn’t involve only running. So, another half-marathon, or even a full one, were out of the question.
 
 When brainstorming what new challenge I could chase, I thought about an old goal I had of one day completing a full-distance IronMan (140.6 miles). But that would not have been a wise choice given the enormous volume of training required to complete this kind of event coupled with my lack of experience in this sport. So I researched shorter-distance triathlons, and settled on the Olympic distance as it seemed to be right balance of challenge.
 
@@ -43,7 +44,7 @@ I set myself the two goals:
 
 Now everyone knows triathlons require a budget from all the gear, pool access and race fees.
 
-I *tried* to keep a tight budget with the goal of not exceeding £1500 total, including race sign-up and mandatory gear such as bike and wetsuit.
+I “tried” to keep a tight budget with the goal of not exceeding £1500 total, including race sign-up and mandatory gear such as bike and wetsuit.
 
 Thankfully, I already had all the running gear I needed. What I needed was some basic biking gear. So I bought a second hand road bike off Ebay and some cycling gear from Van Rysel (Decathlon’ brand, a great value for money in my opinion to not splash on brands like Rapha or Le Col at first). I also needed the basics for swimming (access to a pool via a gym membership, swimwear, a cap and goggles).
 
@@ -51,7 +52,7 @@ I re-used as much as I could at first, including my cycling commuting helmet, my
 
 With the above taken of, I found a free 4-month training plan and started executing it in March 2024!
 
-Remember how I initially said that I “*tried”* to remain within budget? Towards the end of the training, I splashed on some extra gear that is not necessary for a first triathlon, but that I really wanted to enhance the experience, such as bike computer with sensors, and extra cycling gear.
+Remember how I initially said that I “tried” to remain within budget? Towards the end of the training, I splashed on some extra gear that is not necessary for a first triathlon, but that I really wanted to enhance the experience, such as bike computer with sensors, and extra cycling gear.
 
 Here is the total rundown of the costs in a pie chart, confirming that cycling is by far the largest expense.
 
@@ -141,9 +142,10 @@ I was incredibly happy to finish in sub-3h, despite the transition’s layout wh
 
 ![Official race results (from my chip, not from my sports watch).](./first-triathlon/results.jpeg)
 
-
 I still felt good after the race, and had thankfully planned everything perfectly to leave shortly after in a clean set of clothes so I could enjoy some food and drinks with all those who came to support me.
 
 I genuinely loved triathlon training/racing so much that I will likely compete in another one in September (Sprint distance at the Dorney Triathlon, which is half the Olympic distance), and will probably set new goals for myself for 2025 (either a 70.3 IronMan or an Olympic distance but with a faster time).
 
-September 2024 Update: I have completed my second triathlon at the Dorney Lake. It was a sprint distance, and despite the fact that it was pouring and freezing for most of it, I had a great time and finished in 1 hour and 28 minutes! Onto 2025…
+September 2024 Update: I have completed my second triathlon at the Dorney Lake  (see picture below). It was a sprint distance, and despite the fact that it was pouring and freezing for most of it, I had a great time and finished in 1 hour and 28 minutes! Onto 2025…
+
+![Pictures from the Dorney Sprint Triathlon in September 2024, my second triathlon. On the left, the exit of the swim portion, on the right, biking under heavy rain.](./first-triathlon/dorney.png)
