@@ -1,5 +1,5 @@
 ---
-title: The Simple, Yet Fascinating, Maths behind Pokémon Crystal
+title: The Maths behind catching Legendary Pokémon in Crystal
 wordCount: 706
 charCount: 3690
 imgCount: 1

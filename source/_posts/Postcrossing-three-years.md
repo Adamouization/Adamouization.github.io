@@ -1,5 +1,5 @@
 ---
-title: My experience Postcrossing for the past 3 years
+title: Visualisations from Postcrossing for the past 3 years
 categories:
   - philately
 tags:
