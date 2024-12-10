@@ -1,7 +1,7 @@
 ---
 title: My experience training for and racing my first Olympic Triathlon
-wordCount: 1976
-charCount: 9541
+wordCount: 1987
+charCount: 9600
 imgCount: 6
 vidCount: 0
 wsCount: 1
@@ -25,11 +25,11 @@ Earlier this year, I set myself the goal of tackling a triathlon, despite being 
 
 # Motivation
 
-Despite training for a couple of half-marathons (one in 2022 and one in 2023) and picking up knee injuries along the way, I wanted to find a new way to challenge myself that didn’t involve only running. So, another half-marathon, or even a full one, were out of the question.
+Despite training for a couple of half-marathons (one in 2022 and one in 2023) and picking up knee injuries along the way, I wanted to find a new way to challenge myself that didn’t involve only running. So, doing another half-marathon, or even attempting a full one, were out of the question.
 
-When brainstorming what new challenge I could chase, I thought about an old goal I had of one day completing a full-distance IronMan (140.6 miles). But that would not have been a wise choice given the enormous volume of training required to complete this kind of event coupled with my lack of experience in this sport. So I researched shorter-distance triathlons, and settled on the Olympic distance as it seemed to be right balance of challenge.
+When brainstorming what new challenge I could chase, I thought about a very old dream/goal I had of one day completing a full-distance IronMan (140.6 miles). But that would not have been a wise choice given the enormous volume of training required to complete this kind of event, coupled with my lack of experience in this sport. So I researched shorter-distance triathlons, and settled on the Olympic distance as it seemed to be right balance of challenge.
 
-Additionally, I saw this as the perfect opportunity to strengthen my body (and my knee), increase my fitness (which would translate to faster running), and learn new sports that I have always put off.
+Additionally, I saw this as the perfect opportunity to strengthen my body (and my knee), increase my fitness (which would translate to higher VO2 Max for faster running and cycling), and learn new sports that I have always put off.
 
 So I signed up for the biggest triathlon in London: the olympic distance triathlon at the inaugural 2024 T100 race, which entails a 1.5km swim, a 40km bike ride and a 10km run.
 
@@ -40,9 +40,10 @@ I set myself the two goals:
 1. Complete and enjoy the triathlon pain-free
 2. Complete the triathlon in under 3 hours
 
+
 # Budget
 
-Now everyone knows triathlons require a budget from all the gear, pool access and race fees.
+Now, everyone knows that triathlons require a hefty budget due to all the gear, pool access and race fees.
 
 I “tried” to keep a tight budget with the goal of not exceeding £1500 total, including race sign-up and mandatory gear such as bike and wetsuit.
 
@@ -54,7 +55,7 @@ With the above taken of, I found a free 4-month training plan and started execut
 
 Remember how I initially said that I “tried” to remain within budget? Towards the end of the training, I splashed on some extra gear that is not necessary for a first triathlon, but that I really wanted to enhance the experience, such as bike computer with sensors, and extra cycling gear.
 
-Here is the total rundown of the costs in a pie chart, confirming that cycling is by far the largest expense.
+Here is the total rundown of the costs in a pie chart, highlighting cycling as by far the largest expense.
 
 ![Distribution of costs for my first triathlon (62% cycling, 11% race expenses, 9% gym membership, 8% swimming, 5% physio, 3% nutrition and 2% running.)](./first-triathlon/costs.png)
 

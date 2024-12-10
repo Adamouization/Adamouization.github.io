@@ -31,26 +31,26 @@ links:
     url: https://linktr.ee/adamouization
     intro: "My Linktree page."
     icon: "fa fa-tree"
-  - title: Instagram
-    url: https://www.instagram.com/adamouization/
-    intro: "My Instagram account."
-    icon: "fa fa-instagram"
-  - title: X
+#  - title: Instagram
+#    url: https://www.instagram.com/adamouization/
+#    intro: "My Instagram account."
+#    icon: "fa fa-instagram"
+  - title: X (Twitter)
     url: https://x.com/Adamouization
-    intro: "My X (ex-twitter) account."
+    intro: "My X (Twitter) account."
     icon: "fa fa-twitter"
-  - title: Reddit
-    url: https://www.reddit.com/user/Adamouization
-    intro: "My personal Reddit account."
-    icon: "fa fa-reddit"
+  - title: Join the newsletter
+    url: https://substack.com/@adamouization
+    intro: "My newsletter to receive new posts in your mailbox."
+    icon: "fa fa-envelope"
+#  - title: Reddit
+#    url: https://www.reddit.com/user/Adamouization
+#    intro: "My personal Reddit account."
+#    icon: "fa fa-reddit"
   - title: Sign my guestbook
     url: http://users2.smartgb.com/g/g.php?a=s&i=g26-39389-5a
     intro: "My guestbook for visitors to sign."
     icon: "fa fa-book"
-  - title: Join the newsletter
-    url: https://docs.google.com/forms/d/e/1FAIpQLSdVfFOWIgUE5tPjI-f7Ftibbow7DGEJLiPCi9qqXhLCVAXcqA/viewform?usp=sf_link
-    intro: "My newsletter to receive new posts in your mailbox."
-    icon: "fa fa-envelope"
 
 widgets:
 - search
