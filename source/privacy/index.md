@@ -27,7 +27,7 @@ We do not collect any data from children.
 
 **6. Updates to This Privacy Policy**
 
-Any updates to this Privacy Policy will be communicated to users via email who signed up to the newsletter at https://forms.gle/rvNDdSRBn8yRH9ac8.
+Any updates to this Privacy Policy will be communicated to users via email who signed up to the newsletter at https://substack.com/@adamouization.
 
 **7. Contact Information**
 
