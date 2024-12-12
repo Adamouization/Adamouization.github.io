@@ -5,7 +5,7 @@ categories:
 tags:
   - coding
 wordCount: 808
-charCount: 4319
+charCount: 4323
 imgCount: 2
 vidCount: 0
 wsCount: 1
@@ -16,7 +16,7 @@ date: 2024-12-12 09:38:53
 
 If you’ve been reading this blog, you know my hobbies often shift between sport challenges, gaming, stamp collecting, data visualisation and many more. But lately, I’ve been devoting some of my free time diving into the world of launching small software startups, a concept you might be familiar with from @marc_louvion’s Shipfast, or from @levelsio or @dannypostmaa on X. This shipfast philosophy of prioritising speed and execution over perfection is what led to the creation of my latest project, [GlobeFlix](https://www.globeflix.app/?ref=retroblog).
 
-![GlobeFlix Steps Infographic](./GlobeFlix/Venn_Diagram_crop.png)
+![GlobeFlix Steps Infographic](./GlobeFlix/Venn_Diagram_crop-min.png)
 
 <!--more-->
 
@@ -28,7 +28,7 @@ Thanks to streaming platforms like Netflix or Disney+, we are spoiled for choice
 
 That’s where GlobeFlix comes in. It’s a web app designed to help users find the intersection of movies and TV series available in two countries. With features like advanced search, filtering, and sorting tools, it’s designed to facilitate finding something to watch!
 
-![An infographic showing screnshots from the GlobeFlix dashboard and steps for using the app.](./GlobeFlix/globeflix_steps.png)
+![An infographic showing screnshots from the GlobeFlix dashboard and steps for using the app.](./GlobeFlix/globeflix_steps.jpg)
 
 # From Idea to MVP in Record Time
 
