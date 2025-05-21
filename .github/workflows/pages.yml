@@ -51,6 +51,15 @@ jobs:
       - name: Remove symlinks from public directory
         run: find ./public -type l -delete
 
+      - name: Print files with multiple hard links in public directory
+        run: find ./public -type f -links +1 -ls || true
+
+      - name: Print special files in public directory
+        run: find ./public ! -type f ! -type d -ls || true
+
+      - name: Print hidden files in public directory
+        run: find ./public -name '.*' -ls || true
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
