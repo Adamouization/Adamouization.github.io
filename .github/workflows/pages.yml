@@ -52,13 +52,37 @@ jobs:
         run: find ./public -type l -delete
 
       - name: Print files with multiple hard links in public directory
-        run: find ./public -type f -links +1 -ls || true
+        run: |
+          set -x
+          echo "Checking for files with multiple hard links in ./public:"
+          found=$(find ./public -type f -links +1 -ls)
+          if [ -z "$found" ]; then
+            echo "No files with multiple hard links found."
+          else
+            echo "$found"
+          fi
 
       - name: Print special files in public directory
-        run: find ./public ! -type f ! -type d -ls || true
+        run: |
+          set -x
+          echo "Checking for special files in ./public:"
+          found=$(find ./public ! -type f ! -type d -ls)
+          if [ -z "$found" ]; then
+            echo "No special files found."
+          else
+            echo "$found"
+          fi
 
       - name: Print hidden files in public directory
-        run: find ./public -name '.*' -ls || true
+        run: |
+          set -x
+          echo "Checking for hidden files in ./public:"
+          found=$(find ./public -name '.*' -ls)
+          if [ -z "$found" ]; then
+            echo "No hidden files found."
+          else
+            echo "$found"
+          fi
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
