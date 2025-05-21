@@ -40,6 +40,9 @@ jobs:
       - name: Build Hexo site
         run: npm run build
 
+      - name: Remove symlinks from public directory
+        run: find ./public -type l -delete
+
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
