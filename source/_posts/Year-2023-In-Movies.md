@@ -6,7 +6,7 @@ tags:
   - stats
   - letterboxd
 wordCount: 212
-charCount: 1306
+charCount: 1307
 imgCount: 3
 vidCount: 0
 wsCount: 0
@@ -27,7 +27,7 @@ I watched more movies on Sundays and Mondays, and the least on Thursdays:
 
 ![Histogram showing numbers of movies watched on different weekdays.](./Year-2023-In-Movies/histogram_weekdays.png)
 
-Of all the movies I watched, "Spider-Man: Across the Spider-Verse" was the highest rate on Letterboxd, whereas "Ant-Man and the Wasp: Quantumania" was the lowest rated:
+Of all the movies I watched, "Spider-Man: Across the Spider-Verse" was the highest rated on Letterboxd, whereas "Ant-Man and the Wasp: Quantumania" was the lowest rated:
 
 ![Posters of all movies watched in 2023](./Year-2023-In-Movies/high_and_lows.png)
 
