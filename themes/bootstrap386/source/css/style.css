@@ -446,11 +446,11 @@ hr {
 }
 .logo {
   background: url("../favicon.png") no-repeat left top;
-  background-size: 5em;
+  background-size: 6.5em;
   cursor: pointer;
 }
 .logo > h1 {
-  padding-left: 2.4em;
+  padding-left: 3.2em;
   font-size: 1.5em;
   line-height: 2em;
 }
