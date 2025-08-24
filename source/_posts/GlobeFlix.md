@@ -4,6 +4,7 @@ categories:
   - indiepreneurship
 tags:
   - coding
+  - tips
 wordCount: 808
 charCount: 4323
 imgCount: 2

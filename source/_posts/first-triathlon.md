@@ -14,6 +14,7 @@ tags:
   - running
   - triathlon
   - infoviz
+  - tips
 date: 2024-07-28 11:18:53
 ---
 
