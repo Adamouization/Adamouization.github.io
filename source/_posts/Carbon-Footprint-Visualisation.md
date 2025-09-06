@@ -1,10 +1,10 @@
 ---
 title: Carbon Footprint Visualisation
 categories:
-  - environment
+  - nature & nurture
 tags:
-  - stats
-  - infoviz
+  - data viz
+  - sustainability
 wordCount: 1271
 charCount: 7974
 imgCount: 1

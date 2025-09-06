@@ -1,9 +1,8 @@
 ---
 title: National 3 Peaks Challenge
 categories:
-  - sports
+  - endurance sports
 tags:
-  - stats
   - strava
   - hiking
 wordCount: 172

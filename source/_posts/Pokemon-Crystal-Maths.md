@@ -10,9 +10,9 @@ readTime: About 3 minutes
 categories:
   - gaming
 tags:
-  - gameboy
+  - retro gaming
   - pokemon
-  - maths
+  - math
 mathjax: true
 date: 2024-05-25 08:23:28
 ---

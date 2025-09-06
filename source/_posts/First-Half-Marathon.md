@@ -1,7 +1,7 @@
 ---
 title: My First Half-Marathon
 categories:
-  - sports
+  - endurance sports
 tags:
   - strava
   - running

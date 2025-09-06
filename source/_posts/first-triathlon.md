@@ -8,12 +8,12 @@ wsCount: 1
 cbCount: 0
 readTime: About 10 minutes
 categories:
-  - sports
+  - endurance sports
 tags:
   - strava
   - running
   - triathlon
-  - infoviz
+  - data viz
   - tips
 date: 2024-07-28 11:18:53
 ---

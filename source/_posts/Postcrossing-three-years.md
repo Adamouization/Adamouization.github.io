@@ -4,8 +4,7 @@ categories:
   - philately
 tags:
   - postcrossing
-  - stats
-  - infoviz
+  - data viz
 wordCount: 703
 charCount: 3737
 imgCount: 4

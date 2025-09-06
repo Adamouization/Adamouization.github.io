@@ -3,7 +3,7 @@ title: 2023 in Movies
 categories:
   - movies
 tags:
-  - stats
+  - data viz
   - letterboxd
 wordCount: 212
 charCount: 1307

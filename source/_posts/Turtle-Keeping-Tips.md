@@ -1,7 +1,7 @@
 ---
 title: Lessons I Wish I Knew From Day 1 From Raising Burtle
 categories:
-  - pet
+  - nature & nurture
 tags:
   - tips
 wordCount: 648

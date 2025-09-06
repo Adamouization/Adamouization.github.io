@@ -3,7 +3,7 @@ title: 2024 in Movies
 categories:
   - movies
 tags:
-  - stats
+  - data viz
   - letterboxd
 wordCount: 240
 charCount: 1361

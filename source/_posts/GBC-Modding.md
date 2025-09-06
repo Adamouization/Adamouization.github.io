@@ -3,7 +3,7 @@ title: GameBoy Color Modding
 categories:
   - gaming
 tags:
-  - gameboy
+  - retro gaming
   - pokemon
 wordCount: 186
 charCount: 926

@@ -1,9 +1,9 @@
 ---
 title: Building GlobeFlix - A "ShipFast" Venture in Small Startups
 categories:
-  - indiepreneurship
+  - indie ventures
 tags:
-  - coding
+  - code
   - tips
 wordCount: 808
 charCount: 4323
