@@ -65,7 +65,7 @@ widgets:
 - stackexchange
 - travelling
 - misc
-- signup
+# - signup
 
 rss: 
 fancybox: true

@@ -15,7 +15,7 @@ tags:
   - triathlon
   - data viz
   - tips
-date: 2025-08-28 11:18:53
+date: 2025-07-13 11:18:53
 ---
 
 After diving into the world of triathlon last year and competing in both the [London T100 Olympic Triathlon](https://adamouization.github.io/2024/07/28/first-triathlon/) and the Dorney Sprint Triathlon, I decided to challenge myself with the IronMan 70.3 distance for 2025. I set an ambitious goal of completing it in under 6 hours.
