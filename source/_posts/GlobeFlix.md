@@ -5,8 +5,8 @@ categories:
 tags:
   - code
   - tips
-wordCount: 808
-charCount: 4323
+wordCount: 826
+charCount: 4490
 imgCount: 2
 vidCount: 0
 wsCount: 1
@@ -57,3 +57,5 @@ Working on GlobeFlix has been an exciting journey, and it’s taught me a lot ab
 Now that the core functionality of GlobeFlix is completed, I have paused development of new features. There is still so much I want to add, such as movie search, wish listing, or VPN perks, but I need to focus on getting more customers first. At the moment of writing, I am sharing GlobeFlix to relevant users rather than other creators, and am planning to launch on platforms such as Product Hunt. I also have my eyes set on future ideas, which I will start developing in parallel to GlobeFlix (as per the Shipfast ideology).
 
 If you’re curious about [GlobeFlix](https://www.globeflix.app/?ref=retroblog) or want to follow along with my other indiepreneur ventures, stay tuned via my [X/Twitter feed](https://x.com/Adamouization) or my [IndiePage profile](https://indiepa.ge/adamj).
+
+Follow the next blog entry in this series of indiepreneurship with [ToonStyle AI and Pokedex Checklist in 2025](https://adamouization.github.io/2025/12/26/Toonstyle-PokedexChecklist/).

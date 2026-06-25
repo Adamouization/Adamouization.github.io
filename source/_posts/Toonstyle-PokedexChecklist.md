@@ -6,7 +6,7 @@ tags:
   - code
   - tips
 wordCount: 483
-charCount: 3002
+charCount: 3059
 imgCount: 4
 vidCount: 0
 wsCount: 0
@@ -15,7 +15,7 @@ readTime: About 3 minutes
 date: 2025-12-26 09:38:53
 ---
 
-After releasing GlobeFlix in 2024, I worked on two new projects in 2025: [ToonStyle AI](https://www.toonstyleai.app/) in the first half of 2025, and [Pokédex Checklist](https://www.pokedexchecklist.com/) in the second half of 2025.
+After releasing [GlobeFlix in 2024](https://adamouization.github.io/2024/12/12/GlobeFlix/), I worked on two new projects in 2025: [ToonStyle AI](https://www.toonstyleai.app/) in the first half of 2025, and [Pokédex Checklist](https://www.pokedexchecklist.com/) in the second half of 2025.
 
 ![Cover images for both ToonStyle AI (top) and Pokedex Checklist (bottom)](./Toonstyle-PokedexChecklist/opengraph.png)
 
