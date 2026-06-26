@@ -64,7 +64,7 @@ The run was uneventful (which is a good thing as it went to plan), holding a ver
 
 ![Pre-swim](./triathlon-olympic-2025-pb/finish.jpg)
 
-Overall, I finished in 2 hours and 38 minutes, beating my original [Olympic triathlon time at the 2024 London T100](https://adamouization.github.io/2024/07/28/first-triathlon/) by 19 minutes, which was the goal. 
+Overall, I finished in 2 hours and 38 minutes, beating my original [Olympic triathlon time at the 2024 London T100](https://adamouization.github.io/2024/07/28/first-triathlon/) by 19 minutes, which was the goal (original time was 2h57m57s).
 
 Strava:  [https://www.strava.com/activities/15951040032](https://www.strava.com/activities/15951040032)
 

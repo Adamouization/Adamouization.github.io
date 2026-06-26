@@ -31,7 +31,7 @@ After launching [GlobeFlix](https://www.globeflix.app/) on [ProductHunt](https:/
 
 I built the website with Cursor AI for the first time, and completed it quite quickly. However the downside is that I barely touched the code and fully vibe-coded it, but LLMs weren’t that good yet. When I ran into a large issue on the production version of the website (not the one I develop on, but the public one that internet users can visit), both me and Cursor were unable to fix the issue quickly as it essentially required an entire re-work of the website logic. So I gave up working on this project and left in Waitlist mode.
 
-So my lesson for this project is that it’s ok to vibe-code to accelerate, but I should still be aware of the code that is being produced so that I can edit it myself. (2026 edit: this is no longer the case, LLMs in JJune 2026 could easily fix this).
+So my lesson for this project is that it’s ok to vibe-code to accelerate, but I should still be aware of the code that is being produced so that I can edit it myself. (2026 edit: this is no longer the case, LLMs in June 2026 could easily fix this).
 
 # Next Idea: Pokédex Checklist
 
